@@ -17,7 +17,6 @@ img {
   max-width: 100%;
 }
 
-/* =========================-01-color-switcher============================= */
 
 
 .btn-wrap {
@@ -35,13 +34,7 @@ button[data-stop] {
   font-size:large;
   font-weight: 500;
 }
-/* button[data-start]:is(:hover, :focus),
-button[data-stop]:is(:hover, :focus) {
-  background-color: #8e848472;
-} */
 
-
-/* =========================-02-timer============================= */
 
 .timer-bc {
 background: rgb(221,224,238);
@@ -54,9 +47,7 @@ background: radial-gradient(circle, rgba(221,224,238,1) 50%, rgba(255,255,255,1)
   padding: 20px 0;
   padding-bottom: 20px;
 
-  /* align-items: center; */
 
-  /* min-height: 30px; */
 }
 
 .timer-input {

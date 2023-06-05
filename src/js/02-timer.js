@@ -1,9 +1,8 @@
-// Описаний в документації
+
 import flatpickr from "flatpickr";
-// Додатковий імпорт стилів
+
 import "flatpickr/dist/flatpickr.min.css";
 
-//  Напиши скрипт таймера, який здійснює зворотний відлік до певної дати.
 
 const timerInput = document.querySelector('#datetime-picker');
 const button = document.querySelector('[data-start]');
